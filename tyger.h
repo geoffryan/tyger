@@ -1,3 +1,1 @@
-/*
- * tyger.h
- */
+#include "cow.h"
